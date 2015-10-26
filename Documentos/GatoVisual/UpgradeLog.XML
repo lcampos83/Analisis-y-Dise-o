@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GatoVisual">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\JoseEduardo\Downloads\GatoVisual\GatoVisual.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\JoseEduardo\Downloads\GatoVisual\GatoVisual.suo">
+</Property><Property Name="Date" Value="domingo 18 de octubre de 2015">
+</Property><Property Name="Time" Value="19:57 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GatoVisual.sln" Description="La copia C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="GatoVisual.suo" Description="La copia C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\GatoVisual.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\GatoVisual.csproj">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Program.cs">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\JoseEduardo\Downloads\GatoVisual\Backup1\GatoVisual\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GatoVisual" Source="GatoVisual\GatoVisual.csproj" Description="El archivo de proyecto no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="GatoVisual" Source="GatoVisual\GatoVisual.csproj" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="" Source="GatoVisual.sln" Description="El archivo de soluciones no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="" Source="GatoVisual.sln" Description="No requiere conversión">
+</Event></UpgradeLog>

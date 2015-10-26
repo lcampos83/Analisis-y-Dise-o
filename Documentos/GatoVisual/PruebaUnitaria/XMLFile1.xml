@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<editores>
+  <estadisticas />
+  <xmllogger />
+  
+  <email from = "eduardoqv16@gmail.com" mailhost = "smtp.gmail.com" mailport = "587" useSSL = "TRUE" mailhostUsername = "eduardoqv16@gmail.com~~number=plural" includeDetails = "TRUE" mailhostPassword = "YourGmailP @ ssword ">
+    
+    <usuarios>     
+        <nombre de="Radha" usuario ="" grupo="buildmaster" direccion= "eduardoqv16@gmail.com" />
+        <nombre de="Mehul" usuario ="" grupo="desarrolladores" dirección= "mehul.makwana@mycompany.com" />     
+    </usuarios>
+
+    <grupos>
+      <nombre de="" grupo="desarrolladores">
+        <notificaciones>
+          <NotificationType>
+            Siempre 
+          </NotificationType> 
+        </notificaciones>
+      </nombre>
+    </grupos>
+
+    <grupos>
+      <nombre de ="" grupo ="buildmaster">
+       <notificaciones>
+         <NotificationType>
+           Siempre
+         </NotificationType>
+       </notificaciones>
+     </nombre>
+    </grupos> 
+      
+  </email>
+  
+</editores>
+  
