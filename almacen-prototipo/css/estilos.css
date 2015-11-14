@@ -4,6 +4,7 @@
 }
 
 body {
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     background: url('../img/bg.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -64,6 +65,29 @@ body {
 .post .contenedor-botones {
 	width: 100%;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;    
+}
+
+.titulo{
+	text-align: center;
+}
+
+.leyenda {
+	text-align: center;
+}
+
+
+
 
 /* -- Media Querie -- */
 @media screen and (max-width: 768px) {
