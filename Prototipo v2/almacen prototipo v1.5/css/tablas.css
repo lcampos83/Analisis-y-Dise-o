@@ -1,0 +1,75 @@
+
+/* 
+Generic Styling, for Desktops/Laptops 
+*/
+table { 
+    width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;    
+}
+
+.cabecera{    
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    background: #0EA7E7;
+    margin-bottom: 10px;
+    border-bottom: 3px solid #EA484E;
+}
+
+/* Zebra striping */
+table tr td{
+	color: #000;
+}
+
+table tr th{
+	color: #000;
+}
+
+th { 
+    font-weight: bold;
+    text-align: center;
+}
+td, th { 
+    padding: 6px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+}
+
+tr th {
+    font-size: 20px;
+}
+
+table tr #send {
+    background:url(../Imagenes/eliminar.png) no-repeat;
+    padding:20px;
+    opacity: 0.8;
+}
+
+table tr #send:hover {
+    opacity: 1;
+}
+
+
+table tr #edit {
+    background:url(../Imagenes/editar.png) no-repeat;
+    padding:20px;
+    opacity: 0.8;
+}
+
+table tr #edit:hover {
+    opacity: 1;
+}
+
+
+
+table tr td a {
+    text-decoration: none;
+    color: #000;
+}
+
+
+table tr td a:hover {
+    color: #0EA7E7;
+}

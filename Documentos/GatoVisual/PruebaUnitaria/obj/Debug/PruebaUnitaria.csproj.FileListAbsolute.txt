@@ -1,7 +1,0 @@
-C:\Users\JoseEduardo\Downloads\GatoVisual\PruebaUnitaria\bin\Debug\PruebaUnitaria.dll
-C:\Users\JoseEduardo\Downloads\GatoVisual\PruebaUnitaria\bin\Debug\PruebaUnitaria.pdb
-C:\Users\JoseEduardo\Downloads\GatoVisual\PruebaUnitaria\bin\Debug\GatoVisual.exe
-C:\Users\JoseEduardo\Downloads\GatoVisual\PruebaUnitaria\bin\Debug\GatoVisual.pdb
-C:\Users\JoseEduardo\Downloads\GatoVisual\PruebaUnitaria\obj\Debug\PruebaUnitaria.csprojResolveAssemblyReference.cache
-C:\Users\JoseEduardo\Downloads\GatoVisual\PruebaUnitaria\obj\Debug\PruebaUnitaria.dll
-C:\Users\JoseEduardo\Downloads\GatoVisual\PruebaUnitaria\obj\Debug\PruebaUnitaria.pdb

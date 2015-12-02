@@ -1,0 +1,37 @@
+body {
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+            font-size: 14px;
+            margin: 45px;
+            width: 900px;
+            text-align: left;
+            border-collapse: collapse; 
+            background: #A9D0F5;
+            border: 1px solid #ddd;
+}
+
+th {
+    font-size: 13px;
+    font-weight: lighter;
+    padding: 8px;
+    background: #5882FA;
+    border-top: 4px solid #aabcfe;
+    border-bottom: 1px solid #fff;
+    color: white;
+}
+
+td {
+    padding: 8px; 
+    background: #5882FA; 
+    border-bottom: 1px solid #08088A;
+    color: white;
+    border-top: 1px solid transparent;
+}
+
+tr:hover td {
+    background: #013ADF;
+    color: white;
+}
